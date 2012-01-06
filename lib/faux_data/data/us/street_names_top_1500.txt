@@ -1,0 +1,1500 @@
+Main St 	16686
+2nd St 	10325
+1st St 	9447
+3rd St 	9387
+4th St 	7980
+Oak St 	7302
+Private Rd 	6763
+Elm St 	6686
+Pine St 	6550
+5th St 	6425
+Church St 	6169
+Maple St 	6078
+6th St 	5483
+Walnut St 	5455
+County Line Rd 	5154
+N Main St 	4776
+S Main St 	4739
+Washington St 	4642
+E Main St 	4639
+7th St 	4481
+River Rd 	4411
+W Main St 	4289
+Center St 	4056
+Park Ave 	3868
+Cedar St 	3795
+8th St 	3782
+High St 	3736
+North St 	3684
+Park St 	3614
+Railroad St 	3508
+Sunset Dr 	3418
+South St 	3370
+Lakeview Dr 	3322
+Ridge Rd 	3311
+Cemetery Rd 	3292
+Chestnut St 	3254
+Circle Dr 	3191
+2nd Ave 	3155
+Cherry St 	3142
+Airport Rd 	3102
+Mill St 	3099
+9th St 	3090
+1st Ave 	3079
+10th St 	3056
+Spring St 	2978
+3rd Ave 	2902
+Pr Dr 	2893
+Railroad Ave 	2892
+School St 	2891
+West St 	2838
+Jackson St 	2811
+Meadow Ln 	2785
+Front St 	2747
+Frontage Rd 	2734
+Spruce St 	2699
+Jefferson St 	2641
+Water St 	2621
+Ramp 	2587
+Lincoln St 	2583
+Hill St 	2577
+Short St 	2572
+Central Ave 	2489
+4th Ave 	2474
+Adirondack Park Preserve 	2461
+Locust St 	2456
+Access Rd 	2454
+Shady Ln 	2441
+Ash St 	2376
+Maple Ave 	2372
+Trail 	2361
+Private 	2358
+East St 	2332
+11th St 	2327
+5th Ave 	2299
+Adirondack Park 	2290
+Poplar St 	2283
+State St 	2280
+Washington Ave 	2249
+Park Dr 	2230
+Willow St 	2188
+Franklin St 	2183
+Forest Rd 	2178
+E 2nd St 	2158
+Highland Ave 	2152
+Adams St 	2145
+Vine St 	2114
+W 3rd St 	2105
+W 2nd St 	2100
+Lincoln Ave 	2092
+Woodland Dr 	2091
+Birch St 	2086
+12th St 	2086
+E 3rd St 	2079
+Pvt1 	2050
+Riverside Dr 	2030
+Cedar Ln 	2030
+Park Rd 	2027
+W 4th St 	2026
+Market St 	2015
+E 4th St 	1973
+Hillcrest Dr 	1971
+Grant St 	1968
+Grove St 	1962
+N 3rd St 	1945
+Smith Rd 	1936
+N 2nd St 	1918
+A St 	1906
+Madison St 	1897
+Lakeside Dr 	1891
+Hickory St 	1863
+Parking Lot 	1859
+Lake Dr 	1852
+Hillside Dr 	1842
+Lake St 	1836
+S 2nd St 	1826
+Union St 	1818
+Johnson Rd 	1815
+B St 	1797
+Pearl St 	1796
+Lakeshore Dr 	1795
+Dfa 	1780
+Skyline Dr 	1779
+S 3rd St 	1779
+Clark St 	1776
+Dogwood Ln 	1769
+N 4th St 	1768
+Green St 	1764
+13th St 	1761
+E 1st St 	1739
+Monroe St 	1736
+E 5th St 	1735
+Fairway Dr 	1726
+W 1st St 	1722
+W 5th St 	1721
+Charles St 	1721
+6th Ave 	1716
+James St 	1711
+Smith St 	1703
+Lake Rd 	1693
+Williams St 	1680
+Oak Ln 	1676
+S 4th St 	1675
+Connecting Rd 	1662
+Wilson St 	1661
+Miller Rd 	1657
+Hickory Ln 	1654
+14th St 	1635
+Oak Dr 	1634
+N 5th St 	1622
+Valley Rd 	1616
+C St 	1589
+Johnson St 	1585
+W 6th St 	1582
+Sycamore St 	1571
+N 1st St 	1570
+S 1st St 	1567
+Lee St 	1559
+S 5th St 	1559
+Maple Ln 	1555
+Dogwood Dr 	1543
+Highland Dr 	1541
+E 6th St 	1536
+15th St 	1534
+Division St 	1520
+Harrison St 	1515
+Broadway St 	1506
+Broad St 	1500
+King St 	1496
+Park Ln 	1491
+Bridge St 	1490
+Country Club Dr 	1484
+Prospect St 	1480
+Cross St 	1477
+Maple Dr 	1473
+N 6th St 	1467
+Brown Rd 	1463
+Hilltop Dr 	1434
+Church Rd 	1432
+Country Ln 	1429
+Pleasant St 	1420
+College St 	1419
+7th Ave 	1418
+E 7th St 	1417
+County Rd 	1415
+Beech St 	1413
+W 7th St 	1392
+Davis Rd 	1388
+River St 	1388
+Willow Ln 	1388
+Liberty St 	1383
+Madison Ave 	1383
+S 6th St 	1377
+D St 	1352
+Grand Ave 	1335
+Davis St 	1331
+Jones Rd 	1329
+Brown St 	1329
+N 7th St 	1326
+Co Rd 1 	1324
+Null 	1323
+Oakwood Dr 	1321
+Wilson Rd 	1316
+John St 	1306
+Orchard St 	1303
+Virginia Ave 	1302
+Cherry Ln 	1298
+Valley View Dr 	1297
+Taylor St 	1293
+Park Pl 	1292
+W 8th St 	1291
+Mobile Home Park 	1284
+Mill Rd 	1274
+16th St 	1273
+Usfs Rd 	1269
+Co Rd 2 	1268
+Usfs 	1265
+Hill Rd 	1263
+Elizabeth St 	1260
+Evergreen Dr 	1258
+Depot St 	1256
+Taylor Rd 	1255
+E 8th St 	1255
+Sunset Ln 	1254
+Prdr 	1253
+Riverview Dr 	1249
+Co Rd 16 	1246
+Crestview Dr 	1245
+Pennsylvania Ave 	1241
+Oak Ave 	1238
+Williams Rd 	1235
+Olive St 	1234
+Broadway 	1231
+Forest Dr 	1231
+8th Ave 	1213
+Wood St 	1200
+N 8th St 	1200
+Magnolia St 	1193
+Howard St 	1193
+10th Ave 	1192
+Jones St 	1172
+Mulberry St 	1170
+Co Rd 10 	1163
+State Line Rd 	1160
+Edgewood Dr 	1159
+Jefferson Ave 	1159
+S 7th St 	1157
+17th St 	1151
+George St 	1151
+Industrial Dr 	1148
+Pine Dr 	1147
+Valley Dr 	1146
+Anderson Rd 	1144
+Overlook Dr 	1143
+Cedar Dr 	1139
+Easy St 	1134
+W 9th St 	1132
+Co Rd 4 	1131
+Co Rd 6 	1127
+Tower Rd 	1108
+Lakewood Dr 	1105
+Country Club Rd 	1102
+Forest Ave 	1100
+E 9th St 	1097
+Co Rd 11 	1093
+Wilson Ave 	1085
+Fairview Ave 	1082
+Thomas St 	1080
+E St 	1079
+Elm Ave 	1077
+Co Rd 12 	1076
+Co Rd 3 	1074
+Cedar Ave 	1068
+Clay St 	1065
+Co Rd 5 	1064
+Jeep Trl 	1061
+18th St 	1055
+Co Rd 15 	1054
+Wall St 	1053
+S 8th St 	1051
+Scott St 	1051
+Co Rd 20 	1050
+Lake Shore Dr 	1046
+Court St 	1046
+Canal St 	1045
+Mockingbird Ln 	1045
+100th St 	1043
+Co Rd 17 	1043
+North Rd 	1041
+Henry St 	1040
+N 9th St 	1036
+Village Dr 	1034
+Allen St 	1034
+Laurel St 	1031
+Farm Rd 	1030
+Clark Rd 	1030
+Co Rd 7 	1027
+Co Rd 9 	1021
+Sunrise Dr 	1021
+Plum St 	1021
+Co Rd 8 	1018
+Pvt 	1018
+E 10th St 	1015
+Pine Ln 	1015
+Pine Ave 	1013
+S 9th St 	1012
+Co Rd 13 	1010
+9th Ave 	1005
+Wildwood Dr 	1001
+Cypress St 	998
+Laurel Ln 	997
+Orchard Ln 	997
+Meadow Dr 	996
+Rose St 	994
+Memory Ln 	992
+Thompson Rd 	992
+Martin Rd 	987
+Co Rd 19 	985
+W 10th St 	979
+Co Rd 14 	978
+Co Rd 23 	978
+Hummingbird Ln 	976
+Willow Dr 	976
+Mountain Rd 	974
+Co Rd 21 	969
+Cleveland St 	965
+Jackson Ave 	965
+N 10th St 	964
+Miller St 	962
+20th St 	961
+Magnolia Dr 	957
+Walker Rd 	956
+Timber Ln 	955
+Hickory Dr 	955
+Hilltop Rd 	951
+Ranch Rd 	951
+Linden St 	950
+Creek Rd 	949
+Walnut Ave 	948
+Quarry Rd 	947
+Franklin Ave 	946
+Summit St 	946
+Brookside Dr 	943
+Forest Ln 	942
+D/w 	941
+Penny Ln 	939
+New St 	938
+Ave A 	937
+North Ave 	933
+Allen Rd 	933
+Westwood Dr 	933
+Co Rd 18 	932
+W 11th St 	930
+Holly Ln 	928
+Martin St 	926
+Woodland Ave 	924
+Lewis St 	924
+W Washington St 	920
+Parkview Dr 	920
+Eagle Dr 	919
+F St 	916
+Crescent Dr 	915
+Robin Ln 	914
+19th St 	913
+E 11th St 	912
+Summit Dr 	911
+Adams Rd 	909
+S 10th St 	907
+Jackson Rd 	906
+Mountain View Dr 	904
+Oak Rd 	904
+William St 	902
+Co Rd 25 	902
+Scenic Dr 	899
+Old Mill Rd 	898
+Co Rd 24 	897
+Prospect Ave 	896
+US Hwy 1 	896
+Pine Rd 	895
+Thomas Rd 	894
+Co Rd 35 	891
+Woodland Rd 	890
+Colonial Dr 	887
+Roberts Rd 	887
+Tanglewood Dr 	887
+Melody Ln 	886
+E Washington St 	885
+Rose Ln 	885
+Summit Ave 	877
+Co Rd 22 	877
+Sunset Ave 	875
+Mary St 	874
+Heather Ln 	874
+Creekside Dr 	873
+Hillside Ave 	873
+Sherwood Dr 	872
+Ave B 	871
+Lake Ave 	869
+N Walnut St 	867
+Grant Ave 	866
+Orchard Dr 	864
+Co Rd 27 	860
+Fairview Rd 	860
+Grandview Dr 	860
+Sandy Ln 	859
+Pecan St 	856
+Co Rd 26 	854
+Terrace Dr 	854
+Sunset Rd 	853
+Unnamed Driveway 	852
+Private Dr 	852
+21st St 	852
+Clinton St 	851
+Co Rd 30 	848
+Western Ave 	848
+S Walnut St 	847
+Warren St 	846
+S Washington St 	845
+Sawmill Rd 	844
+Morningside Dr 	844
+Baker St 	844
+Primrose Ln 	844
+Birch Ln 	843
+Baker Rd 	840
+Linda Ln 	837
+Aspen Dr 	837
+Moore Rd 	836
+Sherman St 	835
+Service Rd 	834
+160th St 	832
+Ave C 	831
+Sycamore Dr 	831
+Cardinal Dr 	829
+S Elm St 	826
+King Rd 	826
+College Ave 	824
+Hamilton St 	823
+Holly St 	822
+Hall Rd 	821
+Cleveland Ave 	821
+Orange St 	820
+Loop Rd 	820
+Harrison Ave 	818
+220th St 	815
+N Elm St 	813
+Evergreen Ln 	813
+N Washington St 	812
+22nd St 	809
+Ridgewood Dr 	809
+Michigan Ave 	809
+N 11th St 	809
+Walker St 	808
+Garfield St 	808
+Cross Rd 	808
+Cottonwood Dr 	806
+W 12th St 	805
+Crestwood Dr 	804
+W Walnut St 	804
+Douglas St 	803
+Heritage Dr 	802
+Mountain View Rd 	801
+Roosevelt Ave 	798
+East Ave 	798
+Forest St 	797
+Ohio St 	797
+Ann St 	795
+Myrtle St 	795
+Commerce St 	794
+West Rd 	793
+Robinson Rd 	790
+Magnolia Ave 	789
+W Elm St 	789
+Lakeview Rd 	788
+Co Rd 28 	784
+Virginia St 	783
+School Rd 	783
+Parker Rd 	783
+Cedar Rd 	782
+E 12th St 	782
+Cardinal Ln 	781
+E Walnut St 	781
+11th Ave 	781
+Holly Dr 	779
+Laurel Dr 	775
+Central St 	774
+Willow Rd 	774
+Scott Rd 	774
+Garfield Ave 	770
+Hillcrest Rd 	770
+White Oak Dr 	768
+Peach St 	767
+E Elm St 	764
+Orchard Rd 	764
+Moore St 	764
+Co Rd 32 	761
+White St 	761
+Fairview Dr 	760
+S 11th St 	758
+West Ave 	758
+Roosevelt St 	757
+N 12th St 	755
+Valley View Rd 	754
+Briarwood Dr 	753
+Spruce Ln 	753
+Co Rd 29 	752
+Russell St 	750
+Bluebird Ln 	750
+White Rd 	750
+Walnut Dr 	747
+G St 	746
+Spruce Dr 	746
+Bear Creek Rd 	745
+Linden Ave 	745
+N Oak St 	743
+Honeysuckle Ln 	743
+Perry St 	742
+S Oak St 	742
+Parkway Dr 	742
+Highland St 	742
+Field Rd 	741
+Lafayette St 	740
+Memorial Dr 	738
+Marion St 	738
+Maple Rd 	736
+Winter Trl 	734
+Rosewood Dr 	734
+Ivy Ln 	733
+Hall St 	731
+E 14th St 	731
+Maplewood Dr 	730
+Hillcrest Ave 	729
+Elm Dr 	729
+Middle Rd 	728
+Marshall St 	727
+Smith Ln 	727
+Adams Ave 	726
+180th St 	726
+Robin Rd 	726
+Lee Rd 	725
+Lilac Ln 	725
+Second St 	725
+110th St 	724
+Hemlock Dr 	723
+Highland Rd 	721
+170th St 	720
+E North St 	720
+Webster St 	720
+Vista Dr 	720
+First St 	718
+Campbell Rd 	718
+120th St 	717
+Co Rd 33 	717
+Arrowhead Dr 	716
+S Pine St 	716
+25th St 	715
+Green Rd 	715
+Rocky Rd 	715
+Turner Rd 	713
+N Pine St 	708
+Hemlock St 	707
+Pinewood Dr 	706
+Redwood Dr 	706
+W North St 	706
+Birch Dr 	704
+Summer St 	704
+24th St 	704
+W 13th St 	703
+E 13th St 	697
+Meadowlark Ln 	697
+US Hwy 6 	697
+210th St 	696
+S 12th St 	695
+State Hwy 1 	695
+Laurel Ave 	694
+Windsor Dr 	692
+Harris Rd 	692
+Morgan St 	691
+Evergreen Rd 	690
+Center Ave 	689
+Clover Ln 	689
+Mitchell Rd 	689
+Anderson St 	689
+Ridgeview Dr 	688
+Camp Rd 	688
+Sycamore Ln 	687
+Woodside Dr 	686
+Delaware Ave 	684
+Valley St 	684
+Beach Rd 	683
+Manor Dr 	683
+Lewis Rd 	683
+Co Rd 31 	682
+Bailey Rd 	681
+23rd St 	680
+Monroe Ave 	679
+250th St 	678
+Taylor Ave 	677
+Ponderosa Dr 	674
+12th Ave 	674
+W South St 	674
+Deer Run Rd 	673
+Co Rd 36 	672
+River Dr 	671
+Thompson St 	670
+Bay St 	670
+Trailer Park 	669
+190th St 	667
+US Hwy 27 	667
+Campground Rd 	666
+Morgan Rd 	665
+Brentwood Dr 	665
+Co Rd 34 	664
+Harris St 	661
+Co Rd A 	661
+Ave D 	661
+S County Line Rd 	661
+Mill Creek Rd 	661
+200th St 	661
+South Ave 	661
+Glenwood Dr 	659
+150th St 	658
+Nelson Rd 	657
+US Hwy 20 	656
+140th St 	655
+Willow Ave 	655
+W 14th St 	654
+Rainbow Dr 	653
+Fulton St 	652
+Rogers Rd 	651
+Co Rd 37 	650
+Center Rd 	649
+Lawrence St 	649
+Johnson Ln 	648
+N Maple St 	647
+Euclid Ave 	645
+H St 	645
+South Rd 	645
+Pvt Rd 	644
+130th St 	643
+Shore Dr 	642
+N 13th St 	640
+Cherokee Dr 	640
+S Maple St 	640
+Evans Rd 	639
+Spring Rd 	639
+E South St 	638
+Indiana Ave 	638
+Beechwood Dr 	637
+Russell Rd 	636
+230th St 	636
+N Shore Dr 	635
+Greenwood Dr 	635
+Woods Rd 	635
+Reservoir Rd 	634
+US Hwy 40 	634
+Parish Rd 	633
+Cedar Ct 	633
+Oak Ridge Dr 	632
+240th St 	631
+Parker St 	630
+Hillside Rd 	630
+Dirt Rd 	628
+N 14th St 	627
+Hamilton Rd 	627
+Columbia Ave 	627
+Magnolia Ln 	627
+N Church St 	627
+Hemlock Ln 	625
+State Hwy 5 	625
+Co Rd 50 	624
+North Dr 	623
+May St 	622
+Locust Ln 	622
+Oak Grove Rd 	622
+280th St 	621
+Autumn Ln 	621
+Mulberry Ln 	620
+Birch Rd 	620
+Phillips Rd 	620
+Bell St 	618
+Atlantic Ave 	618
+Co Rd 40 	617
+30th St 	617
+Third St 	616
+Co Rd 42 	616
+Deer Run 	616
+Cook Rd 	615
+S Church St 	615
+W Pine St 	614
+Pierce St 	613
+Grove Ave 	611
+Pleasant Valley Rd 	610
+Grandview Ave 	610
+Daisy Ln 	608
+Lee Ave 	608
+Blackberry Ln 	607
+Woodlawn Ave 	607
+Walnut Ln 	606
+Wedgewood Dr 	606
+Aspen Ln 	606
+Garden St 	606
+13th Ave 	605
+15th Ave 	604
+Wildwood Ln 	604
+Meadowbrook Dr 	604
+Co Rd 39 	602
+Carter Rd 	602
+270th St 	601
+Birchwood Dr 	601
+Lois Ln 	601
+Watson Rd 	600
+State Hwy 25 	600
+State Hwy 16 	600
+Hudson St 	600
+Ridge Ave 	599
+Lexington Ave 	599
+W Church St 	599
+Deerfield Dr 	598
+W Oak St 	598
+E 15th St 	598
+Union Ave 	597
+Co Hwy 1 	597
+Orchard Ave 	596
+State Hwy 9 	595
+Bell Rd 	594
+Logan St 	594
+Co Rd 38 	593
+West Dr 	593
+Meadow Rd 	593
+E Oak St 	593
+US Hwy 64 	592
+Cambridge Dr 	592
+Co Rd 45 	592
+Columbia St 	591
+26th St 	590
+Kelly Rd 	589
+Grace St 	588
+US Hwy 60 	587
+E 16th St 	587
+Polk St 	587
+Johnson Ave 	587
+Golf Course Rd 	587
+Blueberry Ln 	587
+Ridge Dr 	587
+Alpine Dr 	586
+E Church St 	586
+Co Rd 55 	586
+Fir St 	586
+US Hwy 41 	586
+340th St 	585
+Lincoln Rd 	585
+Broadway Ave 	584
+Juniper Dr 	584
+Cypress Dr 	583
+Canal Rd 	582
+Indian Trl 	582
+Myrtle Ave 	582
+Brook St 	581
+W Maple St 	581
+Middle St 	579
+Co Rd 44 	579
+Oak Hill Rd 	579
+Maryland Ave 	579
+Florence St 	579
+Wood Rd 	579
+Paradise Ln 	577
+US Hwy 50 	577
+Lincoln Dr 	577
+Westview Dr 	576
+Carter St 	576
+Patterson Rd 	576
+Maple Ct 	576
+Pine Ridge Rd 	576
+Poplar Dr 	575
+Old State Rd 	575
+US Hwy 30 	575
+Ridge St 	575
+Lovers Ln 	574
+Davis Ln 	574
+Thomas Dr 	574
+28th St 	574
+State Hwy 15 	573
+W County Line Rd 	572
+Co Rd 54 	572
+Red Oak Dr 	572
+Nelson St 	572
+Rose Ave 	571
+W 15th St 	570
+Hickory Rd 	570
+S 13th St 	570
+Homestead Rd 	570
+Ross Rd 	569
+Reed Rd 	569
+E Pine St 	568
+E 17th St 	566
+Chestnut Dr 	566
+Bennett Rd 	565
+Oak Ct 	565
+W 16th St 	565
+S 14th St 	565
+Chestnut Ave 	565
+14th Ave 	565
+Edgewater Dr 	565
+Pioneer Rd 	565
+US Hwy 70 	565
+Co Rd 53 	564
+Co Rd 57 	564
+Mason St 	564
+Carriage Ln 	563
+Mallard Dr 	563
+27th St 	563
+Locust Ave 	563
+260th St 	562
+Miller Ave 	562
+Mitchell St 	562
+South Dr 	562
+Co Rd 41 	562
+State Hwy 3 	562
+Morris St 	561
+Birch Ave 	561
+Edwards St 	559
+Azalea Dr 	559
+Hazel St 	559
+Stone Rd 	559
+Francis St 	559
+Reed St 	558
+Ohio Ave 	557
+Lynn St 	557
+Commerce Dr 	557
+Short Rd 	557
+Van Buren St 	556
+Liberty Ln 	556
+State Hwy 2 	556
+Cemetary Rd 	555
+W Center St 	554
+Longview Dr 	554
+I- 90 	553
+Strawberry Ln 	553
+Oakland Ave 	553
+Collins Rd 	552
+Juniper St 	551
+Miller Ln 	551
+York St 	551
+Pond Rd 	551
+Franklin Rd 	550
+Cooper Rd 	550
+Academy St 	549
+Campbell St 	549
+Skyview Dr 	549
+Poplar Ave 	549
+East Dr 	549
+Clearview Dr 	548
+Foster Rd 	547
+Plantation Dr 	546
+Fisher Rd 	546
+Main Ave 	546
+N 15th St 	546
+Wright Rd 	546
+E Maple St 	545
+300th St 	545
+Co Rd 51 	544
+Georgia Ave 	544
+Florida Ave 	542
+Fox Rd 	541
+Fairview St 	541
+State Rte 1 	539
+Depot Rd 	539
+Commercial St 	539
+310th St 	539
+Wheeler Rd 	538
+Douglas Dr 	537
+Dogwood Rd 	537
+Co Rd 49 	537
+Quail Run 	536
+Co Rd 52 	536
+Hidden Valley Rd 	536
+S Jefferson St 	536
+Lakeview Ave 	536
+Sunrise Ln 	536
+Laura Ln 	535
+Chestnut Ln 	535
+Village Ln 	535
+Dogwood St 	534
+Stewart St 	534
+Juniper Ln 	533
+US Hwy 101 	532
+Co Rd 110 	532
+Knollwood Dr 	532
+Long St 	532
+Houston St 	531
+Elm Rd 	531
+Co Rd 101 	531
+Beverly Dr 	530
+Wright St 	530
+Co Rd 61 	530
+Hillview Dr 	529
+Martin Ln 	529
+Taylor Ln 	528
+Stewart Rd 	527
+Co Rd 59 	527
+Parkside Dr 	526
+Co Rd 48 	526
+California Ave 	525
+Ridgecrest Dr 	525
+Pinecrest Dr 	525
+Canyon Rd 	524
+E County Line Rd 	524
+Summit Rd 	524
+Cypress Ln 	524
+Austin St 	523
+Ward St 	523
+Oak Ridge Rd 	521
+N 16th St 	521
+Fox Ln 	520
+Elmwood Dr 	520
+Wildwood Rd 	518
+Evans St 	518
+Heritage Ln 	518
+Apple St 	517
+Dry Creek Rd 	517
+James Rd 	517
+Riverview Rd 	517
+Cottonwood Ln 	517
+Clubhouse Dr 	516
+290th St 	516
+29th St 	515
+Montgomery St 	515
+Hilltop Ln 	515
+Wilson Dr 	513
+Hawthorne Dr 	513
+Avenue E 	513
+Greenwood Ave 	513
+Bank St 	512
+Evergreen Ave 	511
+Kennedy Dr 	511
+Co Hwy 12 	510
+Hill Dr 	510
+School House Rd 	509
+Brookwood Dr 	509
+Scott Dr 	509
+Co Hwy 6 	508
+Tyler St 	508
+University Dr 	508
+East Rd 	507
+Martin Dr 	507
+E Center St 	507
+Marshall Rd 	507
+McKinley St 	506
+Co Rd 58 	506
+Spring Ln 	505
+S 15th St 	505
+Sherman Ave 	505
+Timberline Dr 	505
+Edwards Rd 	504
+N West St 	504
+Spring Dr 	504
+Hampton Ct 	504
+A Rd 	503
+Apple Ln 	503
+Co Rd 46 	502
+Hamilton Ave 	502
+Cook St 	502
+Church Ln 	502
+Oak Hill Dr 	501
+N State St 	501
+Greenwood Rd 	501
+Liberty Rd 	500
+Fern St 	500
+US Hwy 17 	500
+Johnson Dr 	500
+State Hwy 7 	500
+State Hwy 32 	499
+Arrowhead Rd 	499
+State Hwy 60 	498
+Young Rd 	498
+Wayne St 	497
+Evergreen St 	497
+Deer Trl 	497
+Arthur St 	497
+N County Line Rd 	497
+Town Line Rd 	497
+Palm Dr 	496
+Dogwood Ct 	496
+Driftwood Dr 	496
+Young St 	496
+Eagle Ln 	496
+Co Rd 47 	495
+J St 	495
+Clark Ave 	495
+N Jefferson St 	495
+Aspen Ct 	494
+State Rte 3 	494
+Morris Rd 	494
+Co Rd 56 	494
+Cooper St 	493
+Meadow St 	493
+Willow Ct 	493
+Ave F 	492
+Orange Ave 	492
+W Jefferson St 	492
+State Hwy 28 	491
+Garden Ln 	491
+Center Dr 	490
+Davis Dr 	490
+Co Hwy 8 	490
+Cove Rd 	490
+Village Rd 	489
+Smith Ave 	489
+McKinley Ave 	489
+Cypress Ave 	488
+Co Rd 43 	488
+Co Rd 102 	488
+Old Farm Rd 	488
+Acorn Dr 	487
+Douglas Ave 	486
+Palm Ave 	486
+Howard Ave 	486
+S 16th St 	485
+Bethel Rd 	485
+Richardson Rd 	485
+Eglin Air Force Base 	484
+Reynolds Rd 	484
+N Apartment 	484
+Co Hwy 10 	484
+Ford St 	483
+Hunter Rd 	483
+Pinehurst Dr 	483
+31st St 	483
+Palm St 	483
+Lisa Ln 	482
+Pleasant Dr 	482
+Dewey St 	482
+Henderson Rd 	481
+Roberts St 	481
+Acorn Ln 	481
+Marina Dr 	481
+Leisure Ln 	480
+Co Rd 65 	480
+Horseshoe Dr 	480
+White Oak Ln 	480
+US Hwy 59 	480
+US Hwy 62 	480
+Murphy Rd 	480
+Williams Dr 	480
+Randolph St 	479
+Sleepy Hollow Rd 	479
+2nd St NE 	478
+20th Ave 	478
+Ridgeway Dr 	478
+Co Hwy 2 	477
+Cottage Ln 	477
+Ross St 	477
+Blm 	477
+Co Rd D 	477
+Eastwood Dr 	477
+S West St 	476
+Lakeview Ct 	476
+Country Club Ln 	476
+Lewis Ln 	476
+Sunset Ct 	476
+Post Rd 	476
+Miller Dr 	476
+32nd St 	475
+Hayes St 	475
+Co Rd G 	474
+Pleasant Hill Rd 	474
+Elmwood Ave 	474
+Shadow Ln 	474
+S State St 	474
+Cottonwood Rd 	473
+Co Rd 69 	473
+Co Rd 62 	473
+Spruce Ave 	473
+Warren Ave 	472
+Gordon St 	472
+Co Rd J 	472
+Co Rd E 	472
+16th Ave 	472
+Pheasant Ln 	472
+Wilson Ln 	471
+S Center St 	471
+Meadowview Dr 	471
+Catherine St 	471
+Victoria Dr 	471
+Cherry Ave 	470
+Sunset Blvd 	470
+S Shore Dr 	470
+Co Rd 103 	470
+Homestead Dr 	470
+N Center St 	470
+Parkwood Dr 	470
+Falcon Dr 	470
+W 17th St 	470
+Butler Rd 	470
+Co Rd 60 	470
+Winter St 	469
+W Jackson St 	469
+Perry Rd 	469
+Smith Dr 	469
+330th St 	469
+Co Rd 63 	468
+Harbor Dr 	468
+Co Rd 120 	468
+Co Hwy 7 	468
+Butler St 	468
+Woodcrest Dr 	468
+Pine Ct 	467
+Canyon Dr 	467
+Newton St 	467
+Robinson St 	467
+Tucker Rd 	466
+Deer Ln 	466
+Mechanic St 	466
+Harvest Ln 	466
+Lee Dr 	465
+Mallard Ln 	465
+Midway Rd 	465
+Harmony Ln 	465
+Howard Rd 	465
+Grant Rd 	465
+Brown Ave 	465
+Dove Ln 	465
+Oakridge Dr 	465
+Williams Ave 	464
+Iowa St 	463
+Kentucky Ave 	463
+Florence Ave 	462
+Levee Rd 	462
+Shoreline Dr 	462
+Cottage St 	462
+Surrey Ln 	461
+Ford Rd 	461
+Northwood Dr 	461
+E Jefferson St 	460
+Michael Dr 	460
+Old County Rd 	460
+Co Rd 100 	460
+18th Ave 	459
+Rock Creek Rd 	459
+Race St 	459
+Winding Way 	459
+Spring Creek Rd 	459
+Woodlawn Dr 	459
+Crest Dr 	458
+Pacific Ave 	458
+Pine Hill Rd 	457
+Palmer Rd 	457
+N 17th St 	457
+Quail Dr 	457
+Brooks Rd 	457
+Hemlock Rd 	456
+E 18th St 	455
+Fawn Ln 	455
+N Cedar St 	455
+Thomas Ln 	455
+Windsor Ct 	455
+2nd St NW 	455
+Co Rd 70 	455
+Erie St 	455
+17th Ave 	454
+Fourth St 	454
+Oil Field Rd 	453
+Kelly Ln 	453
+320th St 	453
+Rice Rd 	453
+Beach St 	453
+US Hwy 11 	452
+Stevens Rd 	451
+Briarwood Ln 	451
+35th St 	451
+Brookneal Hwy 	451
+Cottonwood St 	451
+S East St 	450
+Belmont Ave 	450
+Meadowlark Dr 	450
+Hampton Rd 	449
+Glenwood Ave 	449
+Turner St 	449
+David Dr 	449
+Co Rd N 	449
+Washington Rd 	449
+I St 	449
+Sycamore Rd 	449
+Poplar Ln 	449
+Co Rd B 	448
+Sunset St 	448
+US Hwy 2 	448
+Co Hwy 9 	447
+Kennedy Rd 	447
+Cemetery St 	447
+Phillips St 	446
+Co Hwy 11 	446
+Walnut Rd 	445
+Concord Dr 	445
+Allen Dr 	445
+E 19th St 	444
+Emerald Dr 	444
+Campus Dr 	444
+Hawthorne St 	444
+Ash Ave 	444
+Holiday Dr 	443
+Apache Dr 	443
+Cox Rd 	443
+Salem Rd 	443
+E Jackson St 	443
+W 18th St 	443
+State Rte 9 	443
+Canterbury Dr 	442
+College Dr 	442
+US Hwy 87 	442
+Taylor Dr 	442
+Mason Rd 	442
+Co Rd M 	441
+N East St 	441
+Cambridge Ct 	441
+Hickory Ct 	441
+White Oak Rd 	440
+Meadow Ct 	439
+Bluff Rd 	439
+Co Hwy 5 	439
+Fire Tower Rd 	439
+40th St 	439
+Penn St 	439
+Bond St 	438
+Co Rd 109 	438
+Porter Rd 	438
+Juniper Rd 	438
+Foster St 	438
+Wells Rd 	438
+Harrison Rd 	438
+Co Rd 105 	437
+Edgewood Rd 	437
+E Railroad St 	437
+Pleasant Ave 	437
+Weaver Rd 	437
+Holly Rd 	437
+W State St 	437
+Pine Grove Rd 	436
+Co Rd 104 	436
+I- 80 	436
+3rd St NE 	436
+Industrial Park Rd 	436
+Co Rd K 	436
+Old River Rd 	435
+Silver St 	435
+York Rd 	434
+Ocean Ave 	434
+State Hwy 35 	434
+Texas Ave 	434
+W Railroad St 	433
+Co Rd H 	433
+Wallace Rd 	433
+Elm Ct 	433
+Robin Dr 	433
+Marion Ave 	432
+Co Rd 67 	432
+Independence Dr 	432
+Co Hwy 4 	432
+Co Rd 106 	432
+NW 2nd St 	432
+Co Rd 107 	432
+Williams Ln 	431
+Harding Ave 	431
+Fernwood Dr 	431
+New York Ave 	431
+Countryside Dr 	431
+Sharon Dr 	431
+K St 	430
+I- 40 	430
+Douglas Rd 	430
+Logging Rd 	430
+N Railroad St 	430
+Stagecoach Rd 	429
+Plaza Dr 	429
+Cemetery Dr 	429
+Kelly Dr 	429
+W High St 	429
+Hancock St 	429
+California St 	429
+Kent St 	428
+Collins St 	428
+2nd St SE 	428
+Co Rd 64 	428
+Co Rd W 	428
+Prairie St 	428
+Pierce Rd 	427
+Grand St 	427
+Jordan Rd 	427
+2nd St SW 	427
+University Ave 	427
+N Jackson St 	427
+Anderson Ln 	427
+Oakwood Ave 	427
+Rolling Hills Dr 	427
+Co Rd 73 	426
+Co Rd 75 	426
+Co Rd 121 	426
+Lakeview Ln 	426
+Ivy St 	426
+Ave G 	426
+Pine Tree Ln 	426
+4th St NE 	426
+Gateway Dr 	426
+Autumn Dr 	426
+Warren Rd 	425
+Lynn Dr 	425
+S 17th St 	425
+Industrial Rd 	425
+Woodland Ct 	425
+Delaware St 	425
+Davis Ave 	425
+Helen St 	424
+Co Rd 113 	424
+Ward Rd 	424
+State Hwy 22 	424
+Cherokee Trl 	424
+33rd St 	424
+Lake View Dr 	424
+State Hwy 13 	424
+Linden Ln 	424
+Rd A 	424
+Jay St 	423
+Cherokee Rd 	423
+Powell Rd 	423
+Pr Rd 	423
+New Hope Rd 	423
+Arch St 	423
+Main Rd 	423
+State Hwy 34 	423
+Pine Ridge Dr 	422
+Co Rd 80 	422
+Co Rd 115 	421
+Laurel Rd 	421
+Spruce Rd 	421
+Wallace St 	421
+Fawn Dr 	421
+State Hwy 99 	421
+Porter St 	420
+Partridge Ln 	420
+Frederick St 	420
+Hillside Ln 	420
+Co Rd 111 	420
+Illinois St 	420
+Graham Rd 	420
+Quail Ln 	420
+E High St 	420
+Kimberly Dr 	419
+Union Rd 	419
+Holly Ct 	419
+Twin Oaks Dr 	419
+Co Rd 125 	419
+Shore Rd 	418
+Hawthorne Ave 	418
+Sunny Ln 	418
+Stone St 	418
+Co Rd 140 	418
+100th Ave 	418
+Co Rd F 	417
+Peterson Rd 	417
+Park Cir 	416
+Nottingham Dr 	416
+Co Hwy 19 	416
+S Cedar St 	416
+State Hwy 20 	415
+Dump Rd 	415
+Drive 	415
+N 18th St 	415
+Sycamore Ave 	415
+Co Rd 77 	414
+N 19th St 	414
+Garden Dr 	414
+School Dr 	414
+Co Rd 71 	414
+S Jackson St 	414
+S Front St 	413
+Augusta Dr 	413
+S 18th St 	413
+Oliver St 	413
+Thomas Ave 	412
+Kings Ct 	412
+Co Rd C 	412
+State Hwy 33 	412
+I- 95 	411
+Ellis Rd 	411
+W 2nd Ave 	411
+Co Rd 122 	411
+State Hwy 6 	410
+Cole Rd 	410
+Country Rd 	410
+Spring Valley Rd 	410
+34th St 	410
+N Front St 	409
+Northridge Dr 	409
+Co Rd 130 	409
+Edgewood Ave 	409
+19th Ave 	409
+Overlook Rd 	408
+Hill Ave 	408
+Indian Creek Rd 	408
+Crawford St 	408
+Church Ave 	408
+Arlington Ave 	408
+Schoolhouse Rd 	408
+Sheridan St 	408
+S Park St 	407
+US Hwy 52 	407
+Enterprise Dr 	407
+Clinton Ave 	407
+E 21st St 	407
+Deerfield Rd 	406
+Virginia Dr 	406
+Hunt Rd 	406
+Blue Ridge Pkwy 	406
+Co Rd 112 	406
+Winchester Dr 	406
+Indiana St 	405
+State Rd 	405
+Hunter Ln 	405
+Apache Trl 	405
+Barnes Rd 	405
+Co Rd 74 	404
+Alexander St 	404
+Pin Oak Dr 	404
+N River Rd 	404
+James Dr 	404
+Club Dr 	404
+Greenbriar Dr 	403
+Carroll St 	403
+N 21st St 	403
+Crystal Ln 	403
+Illinois Ave 	403
+Pipeline Rd 	403
+Eastern Ave 	403
+Paul St 	403
+Co Rd 81 	402
+2nd Ave SW 	402
+State Park Rd 	402
+W Chestnut St 	402
+Alexander Rd 	402
+Co Rd Y 	402
+N Park St 	402
+Rosewood Ln 	402
+Oakwood Ln 	402
+Margaret St 	401
+US Hwy 98 	401
+Jefferson Rd 	401
+E 20th St 	401
+Crescent St 	400
+Red Oak Ln 	400
+I- 70 	400
+N High St 	400
+Pecan Dr 	400
+Ellis St 	399
+Hughes Rd 	399
+Meadowbrook Ln 	399
+Bennett St 	399
+Ashley Dr 	399
+Co Hwy 21 	399
+E State St 	399
+Co Rd P 	399
+Cherokee Ln 	399
+E Park St 	398
+Ave H 	397
+Buchanan St 	397
+Aspen St 	397
+36th St 	397
+Elizabeth Ave 	397
+Co Hwy 3 	397
+Ruth St 	396
+S Railroad St 	396
+Co Hwy 14 	396
+Holly Ave 	396
+Bayberry Ln 	396
+E 1st Ave 	396
+Homestead Ln 	395
+E 3rd Ave 	395
+1st St NE 	395
+Gibson Rd 	395
+State Hwy 10 	395
+I- 94 	395
+Co Rd 66 	395
+Somerset Dr 	395
+E 2nd Ave 	395
+Ash Ln 	394
+Kings Rd 	394
+Industrial Blvd 	394
+Hickory Ave 	393
+Co Rd S 	393
+Price Rd 	393
+Quail Ct 	393
+Benton St 	393
+Pioneer Dr 	392
+Co Rd 220 	392
+Main 	392
+Evergreen Ct 	392
+S High St 	392
+Mary Ln 	392
+Duncan Rd 	392
+Jennifer Ln 	392
+Crawford Rd 	391
+Columbus Ave 	391
