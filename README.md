@@ -25,15 +25,17 @@ Examples
     person = pg.person
     pp person
 
+For more examples see the examples/ directory of this project.
+
+
 
 Supported Platforms
 -------------------
 
 Known to work on
 
-    1.8.7
+  1.8.7
   
-For more examples see the examples/ directory of this project.
 
 
 Questions and/or Comments
