@@ -27,6 +27,7 @@ class PersonGenerator
                 :ssn => @national_id.national_id,
                 :date_of_birth => Date.today - (rand(@max_age_in_days))
         })
+        person[:email] = "#{person[:first_name].strip.downcase}.#{person[:surname].strip.downcase}@" + pick_email_domain()
         return person
     end
 
@@ -35,6 +36,10 @@ class PersonGenerator
 
     def pick_sex
         return [:male, :female].choice
+    end
+
+    def pick_email_domain
+        return %w[ example.com example.net example.org].choice
     end
 end
 end
