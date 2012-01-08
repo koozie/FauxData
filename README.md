@@ -33,4 +33,4 @@ For more examples see the examples/ directory of this project.
 Questions and/or Comments
 -------------------------
 
-Feel free to email {Chris Stansbury}[mailto:chris@koozie.org] with any questions.
+Feel free to email [Chris Stansbury](mailto:chris@koozie.org) with any questions.
