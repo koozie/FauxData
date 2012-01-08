@@ -1,4 +1,4 @@
-FauxDate
+FauxData
 ========
 
 by Chris Stansbury
