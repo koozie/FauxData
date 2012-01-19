@@ -4,7 +4,7 @@ require 'test/unit'
 require 'pp'
 
 
-require File.join(File.dirname(__FILE__),'..','lib','faux_data','national_id_generator')
+require File.join(File.dirname(__FILE__),'..','lib','faux_data')
 
 class Test_SSN_Creation < Test::Unit::TestCase
   

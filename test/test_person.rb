@@ -5,7 +5,7 @@ require 'pp'
 require 'awesome_print'
 require 'date'
 
-require File.join(File.dirname(__FILE__),'..','lib','faux_data','person_generator')
+require File.join(File.dirname(__FILE__),'..','lib','faux_data')
 
 class Test_Person_Creation < Test::Unit::TestCase
   
