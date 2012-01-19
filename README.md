@@ -20,6 +20,7 @@ Examples
 --------
 
     require 'pp'
+    require 'faux_data'
 
     pg = FauxData::PersonGenerator.new
     person = pg.person
