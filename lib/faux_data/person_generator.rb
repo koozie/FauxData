@@ -1,9 +1,9 @@
 
 
-require File.join(File.dirname(__FILE__),'personal_name_generator')
-require File.join(File.dirname(__FILE__),'address_generator')
-require File.join(File.dirname(__FILE__),'national_id_generator')
 require 'date'
+require 'faux_data/personal_name_generator'
+require 'faux_data/address_generator'
+require 'faux_data/national_id_generator'
 
 
 

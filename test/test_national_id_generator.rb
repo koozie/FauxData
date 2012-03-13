@@ -1,10 +1,7 @@
 
-require 'rubygems'
 require 'test/unit'
 require 'pp'
-
-
-require File.join(File.dirname(__FILE__),'..','lib','faux_data')
+require 'faux_data'
 
 class Test_SSN_Creation < Test::Unit::TestCase
   

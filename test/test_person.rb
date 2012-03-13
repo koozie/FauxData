@@ -1,11 +1,9 @@
 
-require 'rubygems'
 require 'test/unit'
 require 'pp'
-require 'awesome_print'
 require 'date'
+require 'faux_data'
 
-require File.join(File.dirname(__FILE__),'..','lib','faux_data')
 
 class Test_Person_Creation < Test::Unit::TestCase
   
@@ -34,6 +32,5 @@ class Test_Person_Creation < Test::Unit::TestCase
             persons << person
         end
         assert_equal(100 , persons.size , "Both arrays should contain 100 elements ")
-        ap persons
     end
 end
