@@ -7,7 +7,7 @@ Description
 -----------
 
 FauxData was created to quickly generate random employee demographic data
-which is used for demostrating your application and application's reporting
+which is used for demonstrating your application and application's reporting
 features.  Address data is pulled from US Census records, keeping the US city, 
 US state, and US zip code in sync, while street names are randomly pulled.
 
