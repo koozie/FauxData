@@ -13,7 +13,10 @@ class AddressGenerator
   def address
     load_csz_file if @city_state_zipcodes.size < 1
     load_street_file if @street_names.size < 1
-    street = "#{rand(9899) + 100} #{@street_names.choice[:street]}"
+    street = "#{rand(9899) + 100} #{@street_names.choice[:street]}".strip
+    if rand(5) == 4 # 20 % of the time
+        street << ", Apt ##{(100..999).to_a.choice}"
+    end
     return @city_state_zipcodes.choice.merge({:street => street.upcase.strip})
   end
 
