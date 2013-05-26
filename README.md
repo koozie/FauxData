@@ -35,7 +35,7 @@ Supported Platforms
 
 Known to work on
 
-  1.8.7
+  1.8.7, 1.9.3
   
 
 
