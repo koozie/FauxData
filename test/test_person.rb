@@ -13,7 +13,9 @@ class Test_Person_Creation < Test::Unit::TestCase
     end
 
     def test_person_creation
-        required_keys = %w[ssn surname first_name middle_name street city state zip date_of_birth].map {|i| i.downcase.to_sym}
+        required_keys = %w[ssn surname first_name middle_name 
+                           street city state zip date_of_birth
+                           email sex ].map {|i| i.downcase.to_sym}
         pg = FauxData::PersonGenerator.new
         person = pg.person
         assert(person.is_a?(Hash), "Person should be a hash")
@@ -21,6 +23,7 @@ class Test_Person_Creation < Test::Unit::TestCase
             assert(person.key?(k), "Should have this key: #{k}")
         end
         assert(person[:date_of_birth].is_a?(Date), "Date of Birth should be a date object")
+        assert(required_keys.size == person.keys.size, "Mismatch on required person attributes: #{required_keys.size} <> #{person.keys.size}")
 
     end
 
@@ -33,4 +36,5 @@ class Test_Person_Creation < Test::Unit::TestCase
         end
         assert_equal(100 , persons.size , "Both arrays should contain 100 elements ")
     end
+
 end
