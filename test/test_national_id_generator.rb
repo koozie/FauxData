@@ -28,4 +28,15 @@ class Test_SSN_Creation < Test::Unit::TestCase
         assert_equal(ids.size, nid.national_ids.size, "Both arrays should contain 100 elements ")
         assert(ids == nid.national_ids, "Both arrays should contain the same 100 elements ")
     end
+
+    def test_ssn_unique
+        nid = FauxData::NationalIdGenerator.new(:country_code => 'us')
+        ids = Array.new
+        limit = 10_000
+        (1..limit).each do |i|
+            id = nid.national_id
+            ids << id
+        end
+        assert(ids.uniq.size == limit, "Found some duplicate SSNs, but should be unique")
+    end
 end
