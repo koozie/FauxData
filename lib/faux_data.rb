@@ -2,7 +2,7 @@
 
 
 module FauxData
-  VERSION = "1.2.0".freeze if not defined?(FauxData::VERSION)
+  VERSION = "1.2.1".freeze if not defined?(FauxData::VERSION)
 end
 
 require 'faux_data/compatibility'
